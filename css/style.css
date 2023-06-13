@@ -504,8 +504,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 /* ====== building part start her ===== */
-#building{
-}
+
 .building_img_box{
     position: relative;
 }
@@ -561,15 +560,16 @@ h1,h2,h3,h4,h5,h6,p{
     color: #F4F6FC;
     margin-bottom: 40px;
 }
-.input{
-    width: 431px;
-    height: 63px;
-    padding-left: 15px;
-    margin-bottom: 15px;
-    border:2px solid #BBBBCB;
-    border-radius: 10px;
-    text-transform: capitalize;
-    background-color: transparent;
+.input {
+	width: 431px;
+	height: 63px;
+	padding-left: 15px;
+	margin-bottom: 15px;
+	border: 2px solid #BBBBCB;
+	border-radius: 10px;
+	text-transform: capitalize;
+	background-color: transparent;
+	color: #fff;
 }
 
 .input_button{
